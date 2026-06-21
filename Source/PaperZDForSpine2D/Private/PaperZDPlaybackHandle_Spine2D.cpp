@@ -1,6 +1,7 @@
 // Copyright 2017 ~ 2022 Critical Failure Studio Ltd. All rights reserved.
 
 #include "PaperZDPlaybackHandle_Spine2D.h"
+#include "Engine/World.h"
 #include "AnimSequences/Players/PaperZDAnimationPlaybackData.h"
 #include "SpineSkeletonRendererComponent.h"
 #include "SpineSkeletonAnimationComponent.h"
